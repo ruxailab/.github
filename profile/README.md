@@ -8,6 +8,12 @@ The main goal of RUXAILAB is to create a set of open-source toolchains that help
 
 Feel free to report bugs, suggest features or work on existing ones to any of the repositories in the organization. Please try to be descriptive and clear.
 
+**Some issues guidelines for an easygoing communication**
+
+We work with and assignee system. So you need to express your interest to work on the issue. The first to express interest in the issue comments will have the preference, but be aware to understand what you have to do first and make sure you will have the time and dedication for that before expressing interest, so others also have the chance :wink: 
+
+The person who raised an issue would have the preference to fix it, if the person do not want to or takes too long to answer back, we open it for others.
+
 ### Google Summer of Code 2024
 
 RUXAILAB has been accepted as a mentor organization for Google Summer of Code for the first time this year! 🎉
