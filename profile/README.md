@@ -2,7 +2,9 @@
 
 For a long time, the evaluation of user interfaces by user testing techniques, has been one of the most successful ways to get feedback from the users. HCI experts usually perform their experimental evaluations sessions in usability labs, indoor facilities with equiped with expensive and not available devices for everybody like eye-tracking devices or multi-rooms with specialised software.
 
-The main goal of RUXAILAB is to create a set of open-source toolchains that helps to perform usability tests in a remote environment based on Artificial Intelligence. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their colleagues. In 2024 we expect to keep up the development of eye tracking systems, improve our remote usability test platform, and also work with virtual and augmented reality projects all of them with the use of AI.
+The main goal of RUXAILAB is to create a set of open-source toolchains that helps to perform usability tests in a remote environment based on Artificial Intelligence. Our core is a system that allows to do remote heuristic tests and share the studies to other participants, creating at the same time a social network of developers who wants to get in touch with the studies of their colleagues.
+
+In 2024 we participated on Google Summer of Code intership project and it was amazing! Since then, we have published multiple papers and we have won a prize for democratizing the evaluation of usability and accessibility studies. On 2025, we expect to keep up the development of a new brand accessibility system to fulfill WCAG standard using AI. Moreover, we will keep improving our EyeTracking and Sentimental Analysis system and integrate them into the user testing functionalities.
 
 ## Contributing
 
@@ -14,17 +16,12 @@ We work with and assignee system. So you need to express your interest to work o
 
 The person who raised an issue would have the preference to fix it, if the person do not want to or takes too long to answer back, we open it for others.
 
-### Google Summer of Code 2024
+### Google Summer of Code 2025
 
-RUXAILAB has been accepted as a mentor organization for Google Summer of Code for the first time this year! 🎉
-
-We are very excited for this new journey on our community and so thrilled to have many of you new contributors joining us! We appreciate your work and enthusiasm. For that, we want to be as clear and transparent with the guidelines of proposal submission to help you write strong proposals and have more chances to be selected.
-
-Before applying directly to Google Summer of Code Dashboard we recommend you to get in touch with our community. Join our [Discussion](https://github.com/ruxailab/RUXAILAB/discussions), introduce yourself, ask questions about the projects, get in touch with mentors, and learn how you can start contributing to the Uramaki LAB project. If you don't have a discord or prefer to send an e-mail you can contact us at `ruxailab@gmail.com`.
-
+RUXAILAB would like to express his interest to participate on the 2025 edition. For this reason we are asking our community to help us to determinate the project proposals that you are most interested in. So many contributors appeared during the last year and now it is time to join us to co-create the features for 2025. We appreciate your work and enthusiasm and we would like that you came in touch with the community.
 In our organization, we value people who are proactive, hardworking and that sees always the big picture, thinking about how their work can contribute to the community and to the open source world, thus it is a good idea to start collaborating with us early so we can get to know you better.
 
-Read carefully the instructions on the [gsoc repository](https://github.com/ruxailab/gsoc) and the [Proposal Guidelines Discussion](https://github.com/orgs/ruxailab/discussions/373).
+Read carefully the project idea page on the [gsoc repository]([https://github.com/ruxailab/gsoc](https://github.com/ruxailab/gsoc/blob/main/ideas2025.md)) and get in touch with us throught the different communication channels available!
 
 ## Communication channels
 
