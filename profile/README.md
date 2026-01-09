@@ -10,11 +10,43 @@ In 2024 we participated on Google Summer of Code intership project and it was am
 
 Feel free to report bugs, suggest features or work on existing ones to any of the repositories in the organization. Please try to be descriptive and clear.
 
-**Some issues guidelines for an easygoing communication**
+## **Issues & Contribution Guidelines**
 
-We work with and assignee system. So you need to express your interest to work on the issue. The first to express interest in the issue comments will have the preference, but be aware to understand what you have to do first and make sure you will have the time and dedication for that before expressing interest, so others also have the chance :wink: 
+To keep communication smooth and contributions effective, please follow these guidelines:
 
-The person who raised an issue would have the preference to fix it, if the person do not want to or takes too long to answer back, we open it for others.
+### 🔹 Issue Ownership & Picking Work
+
+* We use labels such as **`good-first-issue`** to help contributors find suitable tasks.
+* Maintainers **do not actively triage or assign most issues**.
+* Contributors are encouraged to **pick an issue themselves** and start working on it.
+* You do **not need prior assignment** to open a Pull Request.
+
+### 🔹 Pull Requests
+
+* Multiple people may work on the same issue.
+* **PRs are reviewed in the order they arrive**.
+* In most cases, the first PR will still require adjustments or additional work.
+* We strongly value **quality over quantity**:
+  a well-thought-out PR is always preferred over many rushed ones.
+
+### 🔹 Communication & Expectations
+
+* Before starting, make sure you:
+
+  * Understand the issue clearly
+  * Have enough time to complete the work
+* Open discussions and feedback are welcome and encouraged.
+
+### 🔹 About AI-assisted Contributions
+
+* We are aware that many PRs are AI-assisted 🤖😄
+* This is not an issue by itself, but **code quality, correctness, and maintainability** remain mandatory.
+
+### 🔹 Original Issue Authors
+
+* The person who created the issue still has preference to work on it.
+* If they choose not to or do not respond in a reasonable time, others are welcome to contribute.
+
 
 ### Google Summer of Code 2025
 
