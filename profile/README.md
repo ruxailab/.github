@@ -57,6 +57,6 @@ Read carefully the project idea page on the [gsoc repository]([https://github.co
 
 ## Communication channels
 
-* [Discord Server](https://discord.gg/YnkDk9BNYK)
+* [Discord Server](https://discord.gg/Uz6sEsyp2G)
 * [Discussions](https://github.com/ruxailab/RUXAILAB/discussions)
 * Email: `ruxailab@gmail.com`
